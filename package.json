@@ -14,19 +14,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://github.com/AkshadK7/TeamInfinity.git",
+    "homepage": "https://github.com/gaurav26-coder/E-waste_Grinders.git",
     "bugs": {
-        "url":"https://github.com/AkshadK7/TeamInfinity.git",
+        "url":"https://github.com/gaurav26-coder/E-waste_Grinders.git",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Akshad Kolhatkar",
+    "author": "Gaurav Prasad",
     "contributors": [
-        "Akshad Kolhatkar (http://akhad.netlify.app/)"
+        "Gaurav Prasad (http://gaurav.netlify.app/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/AkshadK7/TeamInfinity.git"
+        "url": "https://github.com/gaurav26-coder/E-waste_Grinders.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.13.1",
