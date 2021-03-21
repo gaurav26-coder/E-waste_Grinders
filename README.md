@@ -1,4 +1,4 @@
-## TE-waste Grinders Official Hackathon Project
+## E-waste Grinders Official Hackathon Project
 
 
 ### Sustaining Lives🌲 Through Technology 💻
